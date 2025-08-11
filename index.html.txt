@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Malcom | Digital Marketing Agency</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="hero">
+    <nav class="navbar">
+      <div class="logo">Malcom</div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero-content">
+      <h1>Welcome to Malcom</h1>
+      <p>A digital marketing agency that helps you go ahead.</p>
+      <a href="#contact" class="btn">Make Appointment</a>
+    </div>
+  </header>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <h2>About Malcom</h2>
+    <p>We are a passionate and results-driven digital agency dedicated to helping businesses thrive in today’s competitive landscape. Our mission is to deliver excellence and lasting value through innovation and creativity.</p>
+  </section>
+
+  <!-- Services Section -->
+  <section id="services" class="services">
+    <h2>Our Services</h2>
+    <div class="service-cards">
+      <div class="card">
+        <h3>Creative Solutions</h3>
+        <p>Tailored strategies that strengthen your brand and promote growth.</p>
+      </div>
+      <div class="card">
+        <h3>Digital Marketing</h3>
+        <p>Boost your online visibility and maximize ROI with expert tactics.</p>
+      </div>
+      <div class="card">
+        <h3>Web Development</h3>
+        <p>Modern, responsive websites built for performance and impact.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfolio Section -->
+  <section id="portfolio" class="portfolio">
+    <h2>Latest Projects</h2>
+    <p>Unleashing creativity, delivering results. Take a look at our recent work.</p>
+    <div class="portfolio-grid">
+      <div class="project">Project 1</div>
+      <div class="project">Project 2</div>
+      <div class="project">Project 3</div>
+      <div class="project">Project 4</div>
+    </div>
+    <a href="#" class="btn btn-secondary">All Projects</a>
+  </section>
+
+  <!-- Testimonials Section -->
+  <section class="testimonials">
+    <h2>What They Say About Us</h2>
+    <p>Don’t just take our word for it — hear from our trusted clients.</p>
+    <div class="testimonial-slider">
+      <div class="testimonial">“Malcom helped us grow exponentially. Highly recommended!”</div>
+      <div class="testimonial">“Professional, creative, and results-driven — a dream team.”</div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact">
+    <h2>Join Our Newsletter</h2>
+    <p>Get the latest updates, exclusive deals, and exciting news delivered to your inbox.</p>
+    <form>
+      <input type="email" placeholder="Your Email" required />
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Malcom. All rights reserved.</p>
+    <div class="footer-links">
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+
+</body>
+</html>
